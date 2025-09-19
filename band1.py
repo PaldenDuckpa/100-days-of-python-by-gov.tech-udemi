@@ -1,0 +1,5 @@
+print("wel com to my tage janerator")
+name = input("what is the your pad name\n ")
+country = input("which country u from\n")
+contact = input("your contact\n")
+print(f"your tage will be: '{name}' '{country}' '{contact}'")
